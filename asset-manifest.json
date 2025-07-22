@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curio/static/css/main.f855e6bc.css",
+    "main.js": "/curio/static/js/main.e67b5c07.js",
+    "static/js/453.7b3dd746.chunk.js": "/curio/static/js/453.7b3dd746.chunk.js",
+    "index.html": "/curio/index.html",
+    "main.f855e6bc.css.map": "/curio/static/css/main.f855e6bc.css.map",
+    "main.e67b5c07.js.map": "/curio/static/js/main.e67b5c07.js.map",
+    "453.7b3dd746.chunk.js.map": "/curio/static/js/453.7b3dd746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e67b5c07.js"
+  ]
+}
